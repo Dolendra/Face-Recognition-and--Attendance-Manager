@@ -60,6 +60,7 @@ facerecognition/
 │   ├── project-overview.png
 │   ├── realtime-face-recognition.png
 │   ├── dataset-folder.png
+    ├── dataset-folder1.png
 │   └── attendance-csv.png
 │
 ├── attendance.csv
