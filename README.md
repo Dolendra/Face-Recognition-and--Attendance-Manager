@@ -121,7 +121,7 @@ If a face matches:
 ---
 
 ## 📁 Dataset Folder
-
+![Dataset Folder](./screenshots/dataset-folder1.png)
 ![Dataset Folder](./screenshots/dataset-folder.png)
 
 ---
