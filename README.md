@@ -1,4 +1,4 @@
-# 🎯 Face Recognition Attendance Manager
+# 🎯 Face Recognition and Attendance Manager
 
 A real-time Face Recognition based Attendance Management System built using **Python**, **OpenCV**, and the **face_recognition** library.
 
